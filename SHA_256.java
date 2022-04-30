@@ -58,14 +58,14 @@ public class SHA_256 {
         reset_Button.setFont(new Font("Times_New_Roman", Font.BOLD, 15));
         // Button for reset both TextFields ie. text_Data and text_Hash
         
-        cross_icon= new ImageIcon("C:\\Users\\ankit\\eclipse-workspace\\programs\\src\\window_builder\\quit_image.png");
+        cross_icon= new ImageIcon("C:\\Users\\ankit\eclipse-workspace\\programs\\src\\package\\quit_image.png");
         quit_Button=new JButton(cross_icon);
         quit_Button.setBounds(300, 250, 100, 40);
         quit_Button.setFont(new Font("Times_New_Roman", Font.BOLD, 15));
         // Button for quiting the program with image icon
         
         
-        frame.setIconImage(new ImageIcon("C:\\Users\\ankit\\eclipse-workspace\\programs\\src\\window_builder\\lock_png_1.png").getImage());
+        frame.setIconImage(new ImageIcon("C:\\Users\\ankit\\eclipse-workspace\\programs\\src\\package\\lock_png_1.png").getImage());
         // Setting icon or favicon in JFrame
         
         get_button.addActionListener(new ActionListener() {
