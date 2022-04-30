@@ -1,9 +1,9 @@
-# hash_generator_GUI
+# Hash_Generator_GUI
 GUI based hash genrator (SHA-256) with interactive environment
 
 # Working of program.
 * First user has to input the data which may be any type like integer, float, double, character, string or sentance.
-* After giving input and clicking "GET HASH" the HASH CODE will be appear in other textfield.
+* After giving input and clicking "GET HASH" the HASH will be appear in other textfield.
 * To reset all the text, simply click "RESET" Button.
 * To Quit program either click it from "X" button or by clicking quit button with RED icon button.
 
